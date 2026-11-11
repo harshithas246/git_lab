@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I like to study git
 hello 
+=======
+work in progress
+>>>>>>> 398cade (hello)
